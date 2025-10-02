@@ -41,7 +41,7 @@ Each cluster can be targeted with specific marketing strategies.
 🚀 How to Run
 
 Clone the repository:
-git clone https://github.com/PavaniPerisetla/customer-segentation-kmeans.git
+git clone https://github.com/PavaniPerisetla/SCT_ML_2.git
 cd customer-segmentation-kmeans
 
 Install dependencies:
